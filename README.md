@@ -1,5 +1,5 @@
 #Halaman Utama
-![Halaman Utama]([assets/screenshot-home.png](https://github.com/JanuwaPutra/Weather-App/blob/main/screenshoot/Screenshot%202024-11-07%20165646.png))
+![Halaman Utama](screenshoot/Screenshot 2024-11-07 165646.png)
 
 
 # ReactJS Weather App
