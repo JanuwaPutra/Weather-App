@@ -1,3 +1,7 @@
+#Halaman Utama
+![Halaman Utama]([assets/screenshot-home.png](https://github.com/JanuwaPutra/Weather-App/blob/main/screenshoot/Screenshot%202024-11-07%20165646.png))
+
+
 # ReactJS Weather App
 
 Welcome to the ReactJS Weather App project! This application was built as part of a tutorial on my YouTube channel, [Code Explained](https://www.youtube.com/@CodeExplained). In this project, we will create a weather app using ReactJS and the Meteosource Weather API.
